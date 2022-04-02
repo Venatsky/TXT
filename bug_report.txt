@@ -1,1 +1,7 @@
-
+No_job_offer  
+  Project      HH.ru
+  Priority    High
+  Status      Open
+  Diskription Chrome V99.0.4844.82
+  Expected_Result:Apply for job - invitation for an interview
+  Result - no interview
